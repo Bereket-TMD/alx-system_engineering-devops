@@ -1,0 +1,20 @@
+.:
+total 52
+-rwxr--r-- 1 bereket bereket   32 Oct  2 21:59 0-hello_world
+-rwxr--r-- 1 bereket bereket   28 Oct  2 22:01 1-confused_smiley
+-rwxr--r-- 1 bereket bereket   28 Oct  2 22:03 2-hellofile
+-rwxr--r-- 1 bereket bereket   39 Oct  2 22:05 3-twofiles
+-rwxr--r-- 1 bereket bereket   29 Oct  2 22:08 4-lastlines
+-rwxr--r-- 1 bereket bereket   29 Oct  2 22:09 5-firstlines
+-rw-r--r-- 1 bereket bereket   46 Oct  2 22:13 6-third_line
+-rw-r--r-- 1 bereket bereket   74 Oct  2 22:30 7-file
+-rw-r--r-- 1 bereket bereket   42 Oct  2 22:37 8-cwd_state
+-rw-r--r-- 1 bereket bereket   43 Oct  2 22:40 9-duplicate_last_line
+-rw-r--r-- 1 bereket bereket    0 Oct  2 22:47 filess
+-rw-r--r-- 1 bereket bereket  819 Oct  2 22:39 ls_cwd_content
+-rw-r--r-- 1 bereket bereket    0 Oct  2 22:47 other.js
+-rw-r--r-- 1 bereket bereket   37 Oct  2 21:51 README.md
+drwxr-xr-x 2 bereket bereket 4096 Oct  2 22:47 something.js
+
+./something.js:
+total 0
